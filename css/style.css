@@ -418,7 +418,7 @@ h6,
 
 .team-item .team-social .btn {
     background: var(--light);
-    color: var(--primary);
+    color: black;
 }
 
 .team-item .team-social .btn:hover {
